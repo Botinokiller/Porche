@@ -256,4 +256,8 @@ a {
 }
 
 
+.nav:nth-of-type(2){
+  background: purple;
+}
+
 
