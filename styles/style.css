@@ -260,4 +260,7 @@ a {
   background: purple;
 }
 
+.nav:nth-of-type(3){
+  background: #b31d1e;
+}
 
