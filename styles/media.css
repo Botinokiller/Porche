@@ -1,0 +1,96 @@
+@media (max-width: 1200px) {
+  .gallery__images {
+    justify-content: center;
+  }
+
+  .gallery__images img {
+    max-width: 540px;
+    width: 100%;
+  }
+
+  .about img {
+    width: 100%;
+  }
+
+  .footer__inner {
+    padding: 0 20px;
+  }
+}
+
+@media (max-width: 992px) {
+  .hero__title {
+    font-size: 100px;
+  }
+
+  .car {
+    flex-direction: column;
+  }
+
+  .about__text {
+    margin-bottom: 90px;
+  }
+}
+
+@media (max-width: 768px) {
+  .footer__inner {
+    flex-direction: column;
+    gap: 50px;
+  }
+
+  .footer__right {
+    gap: 100px;
+  }
+}
+
+@media (max-width: 576px) {
+  .inner {
+    flex-direction: column;
+    gap: 40px;
+    padding: 40px 15px;
+  }
+
+  .list {
+    gap: 20px;
+  }
+
+  .hero__title {
+    font-size: 64px;
+  }
+
+  .hero__btn {
+    padding: 12px 50px;
+    font-size: 20px;
+  }
+
+  .car__right img {
+    width: 100%;
+  }
+
+  .car__title {
+    font-size: 28px;
+  }
+
+  .car__text {
+    font-size: 18px;
+  }
+
+  .hero {
+    height: 550px;
+  }
+
+  .about {
+    margin-top: 90px;
+  }
+
+  .about__text {
+    font-size: 15px;
+  }
+
+  .car {
+    margin-top: 90px;
+    margin-bottom: 90px;
+  }
+}
+
+
+@media (max-width: 390px) {}
