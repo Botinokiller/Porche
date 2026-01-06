@@ -266,3 +266,7 @@ a {
 .footer:nth-of-type(2) {
   background: #7e6433;
 }
+
+.footer:nth-of-type(3) {
+  background: #bcb9b2;
+}
