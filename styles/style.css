@@ -255,7 +255,6 @@ a {
   transform: translateY(-5px);
 }
 
-
 .nav:nth-of-type(2){
   background: purple;
 }
@@ -264,3 +263,6 @@ a {
   background: #b31d1e;
 }
 
+.footer:nth-of-type(2) {
+  background: #7e6433;
+}
